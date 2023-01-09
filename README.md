@@ -11,5 +11,7 @@ My programming interests include Web Development, Front End Development, and Clo
 About Me
 
 -I play Basketball 
+
 -I currently hold a Brown Belt 
+
 -I am an avid reader 
