@@ -16,7 +16,7 @@ About Me
 
 -I am an avid reader 
 
-I am currently seeking a Summer Coop job. You can contact on [Linkedin] (https://www.linkedin.com/in/ishan-phadte-7b50b2243/)
+I am currently seeking a Summer Coop job. You can contact me on [Linkedin] (https://www.linkedin.com/in/ishan-phadte-7b50b2243/)
 
 
 
