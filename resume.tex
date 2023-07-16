@@ -1,0 +1,285 @@
+%-----------------------------------------------------------------------------------------------------------------------------------------------%
+%	The MIT License (MIT)
+%
+%	Copyright (c) 2021 Jitin Nair
+%
+%	Permission is hereby granted, free of charge, to any person obtaining a copy
+%	of this software and associated documentation files (the "Software"), to deal
+%	in the Software without restriction, including without limitation the rights
+%	to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+%	copies of the Software, and to permit persons to whom the Software is
+%	furnished to do so, subject to the following conditions:
+%	
+%	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+%	IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+%	FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+%	AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+%	LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+%	OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+%	THE SOFTWARE.
+%	
+%
+%-----------------------------------------------------------------------------------------------------------------------------------------------%
+
+%----------------------------------------------------------------------------------------
+%	DOCUMENT DEFINITION
+%----------------------------------------------------------------------------------------
+
+
+% article class because we want to customize the page and not use a cv template fully
+\documentclass[a4paper,12pt]{article}
+
+%----------------------------------------------------------------------------------------
+%	FONT
+%----------------------------------------------------------------------------------------
+
+% % font spec allows you to use TTF/OTF fonts directly
+% \usepackage{fontspec}
+% \defaultfontfeatures{Ligatures=TeX}
+
+% % modified for ShareLaTeX use
+% \setmainfont[
+% SmallCapsFont = Fontin-SmallCaps.otf,
+% BoldFont = Fontin-Bold.otf,
+% ItalicFont = Fontin-Italic.otf
+% ]
+% {Fontin.otf}
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES
+%----------------------------------------------------------------------------------------
+
+\usepackage{url}
+\usepackage{parskip} 	
+
+%other packages for formatting
+\RequirePackage{color}
+\RequirePackage{graphicx}
+\usepackage[usenames,dvipsnames]{xcolor}
+\usepackage[scale=0.9]{geometry}
+
+
+%tabularx environment
+\usepackage{tabularx}
+
+%for lists within experience section
+\usepackage{enumitem}
+
+% centered version of 'X' col. type
+\newcolumntype{C}{>{\centering\arraybackslash}X} 
+
+%to prevent spillover of tabular into next pages
+\usepackage{supertabular}
+\usepackage{tabularx}
+\newlength{\fullcollw}
+\setlength{\fullcollw}{0.47\textwidth}
+
+%custom \section
+\usepackage{titlesec}				
+\usepackage{multicol}
+\usepackage{multirow}
+
+%CV Sections inspired by: 
+%http://stefano.italians.nl/archives/26
+\titleformat{\section}{\Large\scshape\raggedright}{}{0em}{}[\titlerule]
+\titlespacing{\section}{0pt}{5pt}{10pt}
+
+%for publications
+\usepackage[style=authoryear,sorting=ynt, maxbibnames=2]{biblatex}
+
+%Setup hyperref package, and colours for links
+\usepackage[unicode, draft=false]{hyperref}
+\definecolor{linkcolour}{rgb}{0,0.2,0.6}
+\hypersetup{colorlinks,breaklinks,urlcolor=linkcolour,linkcolor=linkcolour}
+\addbibresource{citations.bib}
+\setlength\bibitemsep{1em}
+
+%for social icons
+\usepackage{fontawesome5}
+
+%debug page outer frames
+%\usepackage{showframe}
+
+\usepackage{geometry}
+\newgeometry{left=1cm, right=1cm, top=1cm, bottom=0.5cm}
+
+
+%----------------------------------------------------------------------------------------
+%	BEGIN DOCUMENT
+%----------------------------------------------------------------------------------------
+\begin{document}
+
+% non-numbered pages
+\pagestyle{empty} 
+
+%----------------------------------------------------------------------------------------
+%	TITLE
+%----------------------------------------------------------------------------------------
+
+\begin{tabularx}{\linewidth}{@{} C @{}}
+
+\Huge{Ishan Phadte} \\[7pt]
+\href{github.com/IshanPhadte776}{\raisebox{-0.10\height}\ Github} \ $|$ \ 
+\href{linkedin.com/in/ishan-phadte}{\raisebox{-0.10\height}\ Linkedin} \ $|$ \ 
+\href{ishanphadte@gmail.com}{\raisebox{-0.10\height} \ ishanphadte@gmail.com} \ 
+\ {\raisebox{-0.10\height} \ $|$ Canadian Citizen} \ 
+
+\end{tabularx}
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION
+%----------------------------------------------------------------------------------------
+
+\section{Education}
+\begin{tabularx}{\linewidth}{@{}l X@{}}
+\textbf{University of Ottawa} \
+Honours BSc. in \textbf{Computer Science} (GPA: 3.2/4) & \hfill{2021 - 2024 (Expected)}
+\end{tabularx}
+
+%----------------------------------------------------------------------------------------
+% Skills SECTIONS
+%----------------------------------------------------------------------------------------
+
+%Skills
+\section{Skills}
+
+
+\begin{tabularx}{\linewidth}{@{}l X@{}}
+\textbf{Technical Skills:}\\
+Certifications &  \normalsize{\textbf{AWS Certified Cloud Practitioner}}\\
+Languages &  \normalsize{\textbf{SQL, HTML5, CSS, Javascript}, Python, Java, C++,}\\
+Web Development &  \normalsize{\textbf{React, Node.js, Express.js, Next.js, Socket.io, MongoDB, MERN }, Flask}\\
+Databases &  \normalsize{\textbf{SQLite, Postgresql, MySQL}, NoSQL Firebase(Realtime Database)}\\
+AWS & \normalsize{AWS Lambda, S3, EC2, Lex, Cloudwatch, DynamoDB, } \\
+
+Other Technologies & \normalsize{Windows 10, Mac OS, Google Applications, Microsoft Office, Wordpress} \\
+
+
+
+
+\end{tabularx}
+
+%Projects
+\section{Projects}
+
+\begin{tabularx}{\linewidth}{ @{}l r@{} }
+\text{\textbf{Hotel Full-Stack Web Application $\vert$} & \textit{Self-Taught React, Javascript, Next.js, SQL} \\}
+\begin{minipage}[t]{\linewidth}
+    \begin{itemize}[nosep,after=\strut, leftmargin=1em]
+        \item[-] Allows users to make and edit booking for hotel stays
+        \item[-] Developed appealing user-interface 
+        \item[-] Designed Database Schema and managed 400 SQL Data Entries
+        \item[-] Created Triggers, Views and Indexes to improve efficiency and effectiveness   
+        \item[-] Managed Insertion, Modification and Deletion of Queries
+    \end{itemize}
+    \end{minipage}
+
+\end{tabularx}
+
+\begin{tabularx}{\linewidth}{ @{}l r@{} }
+\text{\textbf{Meal Ordering Android Application $\vert$} & \textit{Java, Firebase, CircleCI, JUnit, XML, Android Studio} \\}
+\begin{minipage}[t]{\linewidth}
+    \begin{itemize}[nosep,after=\strut, leftmargin=1em]
+        \item[-] Led a team of 6 to build an Android App in-which users can buy and sell meals
+        \item[-] Developed proficiency in creating a user-friendly UI design for 20 screens 
+        \item[-] Managed backend data using a Real Time Database for over 10 users and 5 tables (Firebase)
+        \item[-] Implemented text field authentication to ensure high-quality data input for over 45 data entries 
+    \end{itemize}
+    \end{minipage}
+
+\end{tabularx}
+
+\begin{tabularx}{\linewidth}{ @{}l r@{} }
+\text{\textbf{Personal Website $\vert$} & \textit{React, Javascript, CSS, HTML, Bootstrap, Rest-API, Next.js, GithubAPI} \\}
+\begin{minipage}[t]{\linewidth}
+    \begin{itemize}[nosep,after=\strut, leftmargin=1em]
+        \item[-] Personal Website to Display Personal Web Dev Experience  
+        \item[-] Used Bootstrap for CSS for Autoscaling and Grid Design 
+        \item[-] Used Github Restful API to Display Personal Github Stats
+    \end{itemize}
+    \end{minipage}
+
+\end{tabularx}
+
+
+\begin{tabularx}{\linewidth}{ @{}l r@{} }
+\text{\textbf{Weather Flask Server $\vert$} & \textit{Javascript, HTML, CSS} \\}
+\begin{minipage}[t]{\linewidth}
+    \begin{itemize}[nosep,after=\strut, leftmargin=1em]
+        \item[-] Constructed a circuit using a Raspberry Pi, breadboard, and 3 LEDs
+        \item[-] Retrieved physical pin status using Query Strings on the Raspberry Pi and displayed the data on an HTML website
+        \item[-] POST Requests from Postman can be used to change the status of physical pins as JSON files. 
+        \item[-] Improved expertise in designing and implementing 2 I/O devices and embedded systems, gaining a deep understanding of computer engineering principles
+    \end{itemize}
+    \end{minipage}
+
+\end{tabularx}
+
+
+%----------------------------------------------------------------------------------------
+% Work Experience SECTIONS
+%----------------------------------------------------------------------------------------
+
+%Skills
+\section{Work Experience}
+
+
+\begin{tabularx}{\linewidth}{ @{}l r@{} }
+\text{\textbf{The Soaring Artist Website $\vert$} & \textit{React, Next.js, SendGridAPI} \\}
+\begin{minipage}[t]{\linewidth}
+    \begin{itemize}[nosep,after=\strut, leftmargin=1em]
+        \item[-] Commissioned to Build a Website for a Business
+        \item[-] Worked with Client to Create Product to Fit the Needs of the Business
+        \item[-] Added A ChatBot Component to Handle Customer Inquires and Orders 
+        \item[-] Used SendGrid's API to send emails to users who sign up for the newsletter
+        \item[-] Used by the Small Business to Increase Profitability for Business by 50%
+
+    \end{itemize}
+    \end{minipage}
+
+\end{tabularx}
+
+\begin{tabularx}{\linewidth}{ @{}l r@{} }
+\text{\textbf{AWS Lex Chatbot $\vert$} & \textit{AWS, AWS Lex, AWS Lambda,  CloudWatch, DynamoDB, React, Python } \\}
+\begin{minipage}[t]{\linewidth}
+    \begin{itemize}[nosep,after=\strut, leftmargin=1em]
+        \item[-] Chatbot for Website to Handle User Questions and Orders 
+        \item[-] Used Lex to handle Conversations and Intents 
+        \item[-] Developed Custome Interaction using Lambda 
+        \item[-] CloudWatch was used for Debugging 
+        \item[-] Orders are stored in a Dynamo DB Table 
+    \end{itemize}
+    \end{minipage}
+
+\end{tabularx}
+
+
+
+
+
+
+%----------------------------------------------------------------------------------------
+% Skills SECTIONS
+%----------------------------------------------------------------------------------------
+
+%Skills
+\section{Clubs and Activities}
+
+
+\begin{tabularx}{\linewidth}{ @{}l r@{} }
+\text{\textbf{Hayden Robotics $\vert$} & \textit{Java, Team Lead, Automation} \\}
+\begin{minipage}[t]{\linewidth}
+    \begin{itemize}[nosep,after=\strut, leftmargin=1em]
+        \item[-] Led a team of 6 to implement a component of a robot that shoots dodgeballs
+        \item[-] Wrote Java Code to allow a drivetrain to move autonomously for 30 seconds without user input
+        \item[-] Learned Onshape, Power tools, and Electrical wiring in a 6 week span due to the demand
+        \item[-]Mastered multi-tasking, self-learning, adaptability, and flexibility 
+
+    \end{itemize}
+    \end{minipage}
+
+\end{tabularx}
+
+\vfill
+
+\end{document}
