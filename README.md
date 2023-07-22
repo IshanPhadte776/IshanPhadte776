@@ -12,8 +12,6 @@ About Me
 
 -I play basketball 
 
--I currently hold a Brown Belt 
-
 -I am an avid reader 
 
 I am currently seeking a Summer 2024 Internship job. You can contact me on [Linkedin] (https://www.linkedin.com/in/ishan-phadte-7b50b2243/)
