@@ -6,24 +6,18 @@
 
 -->
 
-My name is Ishan Phadte and I'm a 4th year Computer Science Student at the University of Ottawa
+My name is Ishan Phadte and I'm a 4th year Computer Science Student at the University of Ottawa. I am currently studying for my AWS Developer and DevOps Certifications while still managing my school work. 
 
-I have done freelancing work where I created a React Website for a Small Business to boost sales. 
+I am currently seeking a Summer 2024 Internship job so don't be shy to reach out via [Email](mailto:ishanphadte@gmail.com)
 
-My programming interests include Web Development and Cloud Computing. However, I am more than interested in venturing into new avenues if the opportunity presents itself. I am currently studying for my AWS Developer and DevOps Certifications 
+Here are a selection of my standout projects from my diverse portfolio:
 
+I have done freelancing work where I created a React Website for a Small Business to boost sales. Check it out right [here](https://the-soaring-artist-website.vercel.app/).  
 
 Welcome to my website: [Ishan's Next.js React Website](https://ishan-next-react-website.vercel.app/)
-
 My AWS Lambda Github Security Project: [Ishan's Lambda Project ](https://github.com/IshanPhadte776/LambdaEventTriggering)
-
 My AI PDF Scanner: [Ishan's PDF Scanner Project ](https://github.com/IshanPhadte776/PDFQuestionScanner)
 
-
-
-I am currently seeking a Summer 2024 Internship job. You can contact me via [Email](mailto:ishanphadte@gmail.com)
-
-
-
+#TrustTheProcess
 
 :grinning:
