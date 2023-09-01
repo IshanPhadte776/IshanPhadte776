@@ -26,4 +26,4 @@ I am currently seeking a Summer 2024 Internship job. You can contact me via [Ema
 
 
 
-:grinning:i
+:grinning:
