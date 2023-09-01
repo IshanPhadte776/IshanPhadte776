@@ -10,7 +10,7 @@ My name is Ishan Phadte and I'm a 4th year Computer Science Student at the Unive
 
 I am currently seeking a Summer 2024 Internship job so don't be shy to reach out via [Email](mailto:ishanphadte@gmail.com)
 
-Here are a selection of my standout projects from my diverse portfolio:
+## Standout Projects from My Diverse Portfolio
 
 I have done freelancing work where I created a React Website for a Small Business to boost sales. Check it out right [here](https://the-soaring-artist-website.vercel.app/)
 
