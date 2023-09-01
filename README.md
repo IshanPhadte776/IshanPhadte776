@@ -21,7 +21,7 @@ My AI PDF Scanner: [Ishan's PDF Scanner Project ](https://github.com/IshanPhadte
 
 
 
-I am currently seeking a Summer 2024 Internship job. You can contact me via [Email] (https://www.linkedin.com/in/ishan-phadte-7b50b2243/)
+I am currently seeking a Summer 2024 Internship job. You can contact me via [Email](mailto:ishanphadte@gmail.com)
 
 
 
