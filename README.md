@@ -12,12 +12,9 @@ I am currently seeking a Summer 2024 Internship job so don't be shy to reach out
 
 Here are a selection of my standout projects from my diverse portfolio:
 
-I have done freelancing work where I created a React Website for a Small Business to boost sales. Check it out right [here](https://the-soaring-artist-website.vercel.app/).  
-
-Welcome to my website: [Ishan's Next.js React Website](https://ishan-next-react-website.vercel.app/)
-My AWS Lambda Github Security Project: [Ishan's Lambda Project ](https://github.com/IshanPhadte776/LambdaEventTriggering)
-My AI PDF Scanner: [Ishan's PDF Scanner Project ](https://github.com/IshanPhadte776/PDFQuestionScanner)
+- I have done freelancing work where I created a React Website for a Small Business to boost sales. Check it out right [here](https://the-soaring-artist-website.vercel.app/).  
+- [Welcome to my React Website:](https://ishan-next-react-website.vercel.app/)
+- [My AWS Lambda Github Security Project](https://github.com/IshanPhadte776/LambdaEventTriggering)
+- [My AI PDF Scanner](https://github.com/IshanPhadte776/PDFQuestionScanner)
 
 #TrustTheProcess
-
-:grinning:
