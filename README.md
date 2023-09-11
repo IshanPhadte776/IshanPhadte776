@@ -8,7 +8,7 @@
 
 My name is Ishan Phadte and I'm a 3th year Computer Science Student at the University of Ottawa. I am currently studying for my AWS Developer and DevOps Certifications while still managing my school work. 
 
-I am currently seeking a Summer 2024 Internship job so don't be shy to reach out via [Email](mailto:ishanphadte@gmail.com)
+I am currently seeking both a Winter and Summer 2024 Internship job so don't be shy to reach out via [Email](mailto:ishanphadte@gmail.com)
 
 ### Standout Projects from My Diverse Portfolio
 
