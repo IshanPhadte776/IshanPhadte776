@@ -10,6 +10,12 @@ My name is Ishan Phadte and I'm a 3th year Computer Science Student at the Unive
 
 I am currently seeking both a Winter and Summer 2024 Internship job so don't be shy to reach out via [Email](mailto:ishanphadte@gmail.com)
 
+## Resume 
+
+Check out my [Resume!](https://github.com/IshanPhadte776/IshanPhadte776/blob/main/ShawnPhadteResume.pdf)
+
+
+
 ### Standout Projects from My Diverse Portfolio
 
 I have done freelancing work where I created a React Website for a Small Business to boost sales. Check it out right [here](https://the-soaring-artist-website.vercel.app/) <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
