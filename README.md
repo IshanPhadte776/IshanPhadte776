@@ -14,11 +14,11 @@ I am currently seeking both a Winter and Summer 2024 Internship job so don't be 
 
 Check out my [Resume!](https://github.com/IshanPhadte776/IshanPhadte776/blob/main/ShawnPhadteResume.pdf)
 
-
-
-### Standout Projects from My Diverse Portfolio
+### Freelancing Work
 
 I have done freelancing work where I created a React Website for a Small Business to boost sales. Check it out right [here](https://the-soaring-artist-website.vercel.app/) <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+
+### Standout Projects from My Diverse Portfolio
 
 - [Welcome to my React Website](https://ishan-next-react-website.vercel.app/) <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 - [My AWS Lambda Github Security Project](https://github.com/IshanPhadte776/LambdaEventTriggering) <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
