@@ -12,7 +12,7 @@ I am currently seeking both a Winter and Summer 2024 Internship job so don't be 
 
 ## Resume 
 
-Check out my [Resume!](https://github.com/IshanPhadte776/IshanPhadte776/blob/main/ShawnPhadteResume.pdf)
+Check out my [Resume!](https://github.com/IshanPhadte776/IshanPhadte776/blob/main/IshanPhadteResume.pdf)
 
 ### Freelancing Work
 
