@@ -6,15 +6,11 @@
 
 -->
 
-My name is Ishan Phadte and I'm a 3th year Computer Science Student at the University of Ottawa. I am currently studying for my AWS Developer and DevOps Certifications while still managing my school work. 
+My name is Ishan Phadte and I'm a 4th year Computer Science Student at the University of Ottawa. I am currently studying for my AWS Developer Certification while still managing my school work. 
 
 ## Resume 
 
 Check out my [Resume!](https://github.com/IshanPhadte776/IshanPhadte776/blob/main/IshanPhadteResume.pdf)
-
-### Freelancing Work
-
-I have done freelancing work where I created a React Website for a Small Business to boost sales. Check it out right [here](https://the-soaring-artist-website.vercel.app/) <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
 ### Standout Projects from My Diverse Portfolio
 
