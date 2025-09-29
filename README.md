@@ -27,7 +27,7 @@ These projects highlight my strengths in **full-stack development, distributed s
 
 Check out my [Resume!](https://github.com/IshanPhadte776/IshanPhadte776/blob/main/IshanPhadteResume.pdf)
 
-I am currently seeking **2025 New Grad Opportunities** in **Java/Spring Development, AI, and DevOps Engineering** in the **Dallas, Texas region**.  
+I am currently seeking **2025 New Grad Opportunities** in **Java/Spring Development, AI, and DevOps Engineering** in the **US / Canada**.  
 
 
 
