@@ -28,8 +28,12 @@ Check out my [Resume!](https://github.com/IshanPhadte776/IshanPhadte776/blob/mai
 
 I am currently seeking **2025 New Grad Opportunities** in **Java/Spring Development, AI, and DevOps Engineering** in the **Dallas, Texas region**.  
 
+
+
 📂 Explore my work: [GitHub](https://github.com/IshanPhadte776)  
 🔗 Connect with me: [LinkedIn](https://linkedin.com/in/ishan-phadte)  
+🌐 Personal Website: [ishan-next-react-website.vercel.app](https://ishan-next-react-website.vercel.app/)  
+
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/javascript/javascript.png"></code>
