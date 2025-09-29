@@ -19,6 +19,7 @@ I have previously completed **3 internships at Solace** in Software Development,
 ### Projects
 - **Job Application Dashboard** – Full-stack project built with Spring Boot + React to streamline job application management.  
 - **Job Posting Scraper** – Automated scraper using Java multithreading and GitHub Actions to monitor and alert on new job postings.  
+- **Kubernetes Debug Training** - Training project to practice debugging Kubernetes misconfigurations with kubectl, featuring a script to generate CKAD-style labs.
 
 These projects highlight my strengths in **full-stack development, distributed systems, and automation**.  
 
