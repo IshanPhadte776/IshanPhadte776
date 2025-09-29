@@ -12,9 +12,9 @@ I am **Ishan Phadte**, a 5th-year Computer Science student at the **University o
 I have previously completed **3 internships at Solace** in Software Development, DevOps, and Test Engineering, where I gained experience with **Java, Spring Boot, React, GitHub Actions, Docker, and Linux**.  
 
 ### Internship Highlights
+- Developed React/MUI front-end tools to improve UI functionality and support developer workflows.  
 - Built automated pipelines with GitHub Actions, reducing manual intervention for security patches and third-party integrations.  
 - Implemented OAuth and Client Certificate coverage for JUnit test cases, improving authentication reliability.  
-- Developed React/MUI front-end tools to improve UI functionality and support developer workflows.  
 
 ### Projects
 - **Job Application Dashboard** – Full-stack project built with Spring Boot + React to streamline job application management.  
