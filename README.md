@@ -17,9 +17,11 @@ I have previously completed **3 internships at Solace** in Software Development,
 - Implemented OAuth and Client Certificate coverage for JUnit test cases, improving authentication reliability.  
 
 ### Projects
-- **Job Application Dashboard** – Full-stack project built with Spring Boot + React to streamline job application management.  
-- **Job Posting Scraper** – Automated scraper using Java multithreading and GitHub Actions to monitor and alert on new job postings.  
-- **Kubernetes Debug Training** - Training project to practice debugging Kubernetes misconfigurations with kubectl, featuring a script to generate CKAD-style labs.
+
+- **[Job Application Dashboard](https://github.com/IshanPhadte776/ApplyToJobDashboard)** – Full-stack project built with Spring Boot + React to streamline job application management.
+- **[Job Posting Scraper](https://github.com/IshanPhadte776/JobPostingScraper)** – Automated scraper using Java multithreading and GitHub Actions to monitor and alert on new job postings.
+- **[Kubernetes Debug Training](https://github.com/IshanPhadte776/AI-Kubernetes-Lab-Prompts)** – Training project to practice debugging Kubernetes misconfigurations with kubectl, featuring a script to generate CKAD-style labs.
+
 
 These projects highlight my strengths in **full-stack development, distributed systems, and automation**.  
 
